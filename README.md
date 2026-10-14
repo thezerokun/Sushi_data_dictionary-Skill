@@ -6,7 +6,7 @@
 
 连接 MySQL 数据库，结合 Java 项目代码智能分析，生成带搜索和在线编辑功能的数据字典文档。
 
-项目地址：https://github.com/nullhe/Sushi_data_dictionary-Skill
+项目地址：https://github.com/thezerokun/Sushi_data_dictionary-Skill
 
 真正的 Skill 位于：
 ```bash
@@ -38,7 +38,7 @@ sushi-data-dictionary-skill/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/hepy/Sushi_data_dictionary-Skill.git
+git clone https://github.com/thezerokun/Sushi_data_dictionary-Skill.git
 
 # 将 sushi-data-dictionary-skill 复制到 Claude Code skills 目录
 cp -r sushi-data-dictionary-skill ~/.claude/skills/db-dict
